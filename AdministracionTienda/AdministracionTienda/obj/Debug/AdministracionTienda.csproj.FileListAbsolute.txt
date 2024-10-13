@@ -1,0 +1,12 @@
+C:\Users\Sotkus\Source\Repos\AdministracionTienda\AdministracionTienda\bin\Debug\AdministracionTienda1.accdb
+C:\Users\Sotkus\Source\Repos\AdministracionTienda\AdministracionTienda\bin\Debug\AdministracionTienda.exe.config
+C:\Users\Sotkus\Source\Repos\AdministracionTienda\AdministracionTienda\bin\Debug\AdministracionTienda.exe
+C:\Users\Sotkus\Source\Repos\AdministracionTienda\AdministracionTienda\bin\Debug\AdministracionTienda.pdb
+C:\Users\Sotkus\Source\Repos\AdministracionTienda\AdministracionTienda\obj\Debug\AdministracionTienda.csproj.AssemblyReference.cache
+C:\Users\Sotkus\Source\Repos\AdministracionTienda\AdministracionTienda\obj\Debug\AdministracionTienda.Presentacion.Controlador.resources
+C:\Users\Sotkus\Source\Repos\AdministracionTienda\AdministracionTienda\obj\Debug\AdministracionTienda.Login.resources
+C:\Users\Sotkus\Source\Repos\AdministracionTienda\AdministracionTienda\obj\Debug\AdministracionTienda.Properties.Resources.resources
+C:\Users\Sotkus\Source\Repos\AdministracionTienda\AdministracionTienda\obj\Debug\AdministracionTienda.csproj.GenerateResource.cache
+C:\Users\Sotkus\Source\Repos\AdministracionTienda\AdministracionTienda\obj\Debug\AdministracionTienda.csproj.CoreCompileInputs.cache
+C:\Users\Sotkus\Source\Repos\AdministracionTienda\AdministracionTienda\obj\Debug\AdministracionTienda.exe
+C:\Users\Sotkus\Source\Repos\AdministracionTienda\AdministracionTienda\obj\Debug\AdministracionTienda.pdb
